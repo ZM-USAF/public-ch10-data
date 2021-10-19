@@ -79,4 +79,4 @@ translated_example = (
     .to_pandas()
 )
 ```
-The number preceding _1553_ is a unique identifier that links the .c10, parsed, and translated data
+The number preceding \_1553\_ is a unique identifier that links the \*.c10, parsed, and translated data
