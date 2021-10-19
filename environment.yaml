@@ -1,0 +1,7 @@
+name: public-ch10
+channels:
+  - conda-forge
+dependencies:
+  - s3fs
+  - pandas
+  - pyarrow
