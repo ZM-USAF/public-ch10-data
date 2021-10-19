@@ -3,7 +3,7 @@ Repo containing information regarding publicly available chapter 10 data
 
 ## Public NASA ch10 data
 
-The data related to flight 667 from NASA is stored in the bucket `nasa-public-ch10`. It has the following structure:
+The data derived from NASA Tail 667 flights is stored in the bucket `nasa-public-ch10`. It has the following structure:
 
 ```
 chapter10/*.c10
